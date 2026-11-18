@@ -7,6 +7,7 @@ A Streamlit application that uses the trained Group F YOLO26s `best.pt` checkpoi
 
 ## Features
 
+- Switch the complete user interface between English and Chinese.
 - Upload JPG, JPEG, PNG, BMP, or WEBP images.
 - Detect potholes, cracks, debris, manholes, speed breakers, and road barricades.
 - Compare the original and annotated images side by side.
