@@ -2,6 +2,9 @@
 
 A Streamlit application that uses the trained Group F YOLO26s `best.pt` checkpoint to detect six road-damage and road-hazard classes in a user-uploaded image.
 
+**Live application:**  
+[https://6-class-road-damage-detector.streamlit.app](https://6-class-road-damage-detector.streamlit.app)
+
 ## Features
 
 - Upload JPG, JPEG, PNG, BMP, or WEBP images.
